@@ -11,7 +11,7 @@ dissertation (UNDER SUBMISSION).
 ## Contents of archive
 
 Each chapter has a .zip file containing the data, syntax and result printout (in .html format). Note that
-the material for chapter 4 is distributed via a (Docker)[https://www.docker.com/] container for size and 
+the material for chapter 4 is distributed via a [Docker](https://www.docker.com/) container for size and 
 ease-of-use reasons. 
 
 1. CH2 files: What’s the best time to call?
